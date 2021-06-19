@@ -1,4 +1,4 @@
-#👋 Hi, I’m @amsIII
+# 👋 Hi, I’m @amsIII
 
 
 <!--- - 👀 I’m interested in ...
