@@ -1,4 +1,6 @@
-# 👋 Hi, I’m @amsIII
+# 👋 Hey! I'm angel, welcome to my github profile!
+
+## // What I'm learning
 
 
 <!--- - 👀 I’m interested in ...
